@@ -149,8 +149,7 @@ A startup focused on building innovative software at the intersection of AI, aer
 ---
 
 # 🐍 Contribution Snake
-
-> Requires GitHub Actions 
+ 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/nastylex/nastylex/output/github-contribution-grid-snake-dark.svg"/>
