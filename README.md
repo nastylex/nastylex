@@ -136,28 +136,6 @@ A startup focused on building innovative software at the intersection of AI, aer
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nastylex&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
- 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nastylex/nastylex/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 🌟 Current Goals
 
 - 🚀 Build Twrinters
