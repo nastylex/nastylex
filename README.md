@@ -155,6 +155,8 @@ A startup focused on building innovative software at the intersection of AI, aer
 
 > Technology should move humanity forward."
 
+> Startups such has AirSPACEx lead the future
+
 ---
 
 <div align="center">
