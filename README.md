@@ -194,7 +194,7 @@ A startup focused on building innovative software at the intersection of AI, aer
 
 <div align="center">
 
-## ⭐ If you like my work, consider starring my repositories!
+## ⭐ If you like my work, consider starring my repositories and follow for high class!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
