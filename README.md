@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AIRSPACEx
+# 🚀 AirSPACEx
 
 ### Building the Future Through AI • Aerospace • Geospatial Computing
 
