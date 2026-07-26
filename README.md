@@ -49,7 +49,7 @@ A location-first social platform where every photo is pinned to the exact locati
 
 ---
 
-## ☁️ Zero Gravity
+## ☁️ ZEROGRAVITY
 
 A secure cloud workspace for storing, organizing and managing important digital assets.
 
