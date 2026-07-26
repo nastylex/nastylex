@@ -157,6 +157,7 @@ A startup focused on building innovative software at the intersection of AI, aer
 
 > Startups such has AirSPACEx lead the future
 
+> Secure and cloud computing with ZEROGRAVITY
 ---
 
 <div align="center">
