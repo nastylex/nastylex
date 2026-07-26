@@ -100,19 +100,6 @@ A startup focused on building innovative software at the intersection of AI, aer
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode" />
 </p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nastylex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nastylex&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
