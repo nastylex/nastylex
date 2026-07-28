@@ -1,170 +1,158 @@
 <div align="center">
 
-# 🚀 AirSPACEx
+# AirSPACEx
 
-### Building the Future Through AI • Aerospace • Geospatial Computing
+### AI • Aerospace • Geospatial Computing
 
-*"Dreaming of the sexiest job of the 21st century."*
+*Building software for the next generation of intelligent systems.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Founder+of+AirSPACEx;Building+Zero+Gravity;Creating+Twrinters;AI+%7C+Aerospace+%7C+Geospatial+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Founder+of+AirSPACEx;Building+ZeroGravity;Creating+Twrinters;AI+%7C+Aerospace+%7C+Geospatial+Developer;Always+Building" />
 
-<img src="https://komarev.com/ghpvc/?username=nastylex&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nastylex&label=Profile+Views&color=2563eb&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌌 About Me
+# About
 
-Hi! I'm Laker Leslie Jordan, an 18-year-old developer from Uganda and the founder of **AirSPACEx**.
+I'm **Laker Leslie Jordan**, an 18-year-old software developer from Uganda and the founder of **AirSPACEx**.
 
-I'm passionate about building technology that combines:
+My work sits at the intersection of artificial intelligence, aerospace, cloud infrastructure, and geospatial computing. I'm interested in building products that solve real problems through thoughtful engineering and modern design.
 
-- 🚀 Aerospace
-- 🤖 Artificial Intelligence
-- 🌍 Geospatial Computing
-- ☁️ Cloud Infrastructure
-- 🛰️ Interactive Mapping
-- 💡 Startup Innovation
+Current areas of focus include:
 
-My mission is to build software that inspires people and pushes technology forward.
-
----
-
-# 🚀 Featured Projects
-
-## 🌍 Twrinters
-
-> Explore the Earth through memories instead of feeds.
-
-A location-first social platform where every photo is pinned to the exact location and time it was taken.
-
-**Stack**
-
-- Next.js
-- React
-- CesiumJS
-- PostgreSQL
-- Node.js
+* Artificial Intelligence
+* Aerospace Software
+* Geospatial Computing
+* Interactive Mapping
+* Cloud Platforms
+* Startup Engineering
 
 ---
 
-## ☁️ ZEROGRAVITY
+# Projects
 
-A secure cloud workspace for storing, organizing and managing important digital assets.
+## Twrinters
 
-Features
+A location-first social platform that allows people to explore memories through places instead of feeds.
 
-- Authentication
-- Secure Uploads
-- Dashboard
-- File Preview
-- Cloud Storage
+Every image is connected to the exact location and time it was captured, creating a map of human experiences.
 
----
+**Technology**
 
-## 🚀 AirSPACEx
-
-A startup focused on building innovative software at the intersection of AI, aerospace, and geospatial technologies.
+* Next.js
+* React
+* CesiumJS
+* PostgreSQL
+* Node.js
 
 ---
 
-# 💻 Tech Stack
+## ZeroGravity
+
+A modern cloud workspace for securely managing digital assets.
+
+Features include:
+
+* Secure authentication
+* File management
+* Cloud storage
+* Dashboard
+* File previews
+* Organised workspaces
+
+---
+
+## AirSPACEx
+
+An independent software startup focused on building products powered by AI, aerospace technologies, and geospatial intelligence.
+
+The long-term vision is to create tools that make advanced technology more accessible and useful.
+
+---
+
+# Technology
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase"/>
 </p>
 
-### DevOps & Tools
+### Infrastructure & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode"/>
 </p>
+
 ---
 
-# 🔥 GitHub Streak
+# GitHub Activity
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nastylex&theme=tokyonight&hide_border=true"/>
-
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-
-<a href="https://github.com/nastylex">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nastylex&theme=tokyo-night&hide_border=true"/>
-
-</a>
-
 </p>
-
-# 🌟 Current Goals
-
-- 🚀 Build Twrinters
-- ☁️ Improve ZEROGRAVITY
-- 🤖 Learn advanced AI
-- 🌍 Build geospatial applications
-- 🛰️ Contribute to Open Source
 
 ---
 
-# 📫 Connect
+# Currently Building
+
+* Twrinters
+* ZeroGravity
+* AI-powered applications
+* Geospatial software
+* Open-source tools
+
+---
+
+# Philosophy
+
+> Great software is useful before it is impressive.
+
+> Design should remove friction, not add decoration.
+
+> Technology should expand what people are capable of creating.
+
+---
+
+# Connect
 
 <p>
-
-<a href="https://zerogravity2.vercel.app">🌐 Website</a>
-
-<a href="https://github.com/nastylex">💻 GitHub</a>
-
-<a href="mailto:airspacedevtools@proton.me">📧 Email</a>
-
+<a href="https://zerogravity2.vercel.app">Website</a> •
+<a href="https://github.com/nastylex">GitHub</a> •
+<a href="mailto:airspacedevtools@proton.me">Email</a>
 </p>
 
----
-
-# 💭 Philosophy
-
-> "Software should inspire.
-
-> Design should disappear.
-
-> Technology should move humanity forward."
-
-> Startups such has AirSPACEx lead the future
-
-> Secure and cloud computing with ZEROGRAVITY
-
-> Flawless design systems with AirSPACEx
 ---
 
 <div align="center">
 
-## ⭐ If you like my work, consider starring my repositories and follow for high class!
+### Thanks for stopping by.
+
+If you enjoy my projects, consider starring a repository or following my work.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
