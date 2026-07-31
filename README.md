@@ -19,6 +19,11 @@
 I'm **Laker Leslie Jordan**, an 18-year-old software developer from Uganda and the founder of **AirSPACEx**.
 
 My work sits at the intersection of artificial intelligence, aerospace, cloud infrastructure, and geospatial computing. I'm interested in building products that solve real problems through thoughtful engineering and modern design.
+In a world where technology is constantly redefining what is possible, **AERION** was created with a vision to build solutions that move humanity forward.
+
+Inspired by the idea of rising beyond limits, AERION represents exploration, intelligence, and innovation. Just as humanity has always looked toward the skies to discover what lies beyond, AERION looks toward the future to create technologies that solve problems, connect people, and unlock new possibilities.
+
+AERION is more than a software company. It represents a mindset — a commitment to creating powerful digital systems, intelligent solutions, and technologies designed for the future.
 
 Current areas of focus include:
 
