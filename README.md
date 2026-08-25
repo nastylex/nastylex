@@ -1,14 +1,20 @@
 <div align="center">
 
-# AirSPACEx
+<img src="ascii.svg" width="500" alt="NASTYLEX" />
+
+# nastyLEX
 
 ### AI • Aerospace • Geospatial Computing
 
 *Building software for the next generation of intelligent systems.*
 
-<!-- Removed truncated inline SVG and replaced with a simple accessible logo text / image -->
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=nastylex&label=Profile+Views&color=2563eb&style=for-the-badge" alt="GitHub profile views" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%E2%80%A2+Aerospace+%E2%80%A2+Geospatial;Building+the+future+of+intelligent+systems;Founder+of+AirSPACEx" alt="Typing SVG" />
 
 </div>
 
@@ -18,119 +24,128 @@
 
 I'm **Laker Leslie Jordan**, an 18-year-old software developer from Uganda and the founder of **AirSPACEx**.
 
-My work sits at the intersection of artificial intelligence, aerospace, cloud infrastructure, and geospatial computing. I'm interested in building products that solve real problems through thought[...]
+My work sits at the intersection of artificial intelligence, aerospace, cloud infrastructure, and geospatial computing. I'm interested in building products that solve real problems through thoughtfully engineered systems.
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nastylex&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+# AERION
 
 In a world where technology is constantly redefining what is possible, **AERION** was created with a vision to build solutions that move humanity forward.
 
-Inspired by the idea of rising beyond limits, AERION represents exploration, intelligence, and innovation. Just as humanity has always looked toward the skies to discover what lies beyond, AERION [...]
+Inspired by the idea of rising beyond limits, AERION represents exploration, intelligence, and innovation. Just as humanity has always looked toward the skies to discover what lies beyond, AERION stands for the drive to push boundaries in technology and innovation.
 
 AERION is more than a software company. It represents a mindset — a commitment to creating powerful digital systems, intelligent solutions, and technologies designed for the future.
 
-Current areas of focus include:
+**Current areas of focus:**
 
-* Artificial Intelligence
-* Aerospace Software
-* Geospatial Computing
-* Interactive Mapping
-* Cloud Platforms
-* Startup Engineering
+| Domain | Description |
+|--------|-------------|
+| 🤖 Artificial Intelligence | Machine learning, neural networks, intelligent automation |
+| 🚀 Aerospace Software | Flight systems, simulation, mission control |
+| 🌍 Geospatial Computing | Mapping, spatial analysis, Earth observation |
+| ☁️ Cloud Platforms | Scalable infrastructure, serverless architecture |
+| 🗺️ Interactive Mapping | Real-time geospatial visualization |
+| 🔧 Startup Engineering | Building products from zero to launch |
 
 ---
 
 # Projects
 
-## Twrinters
+<div align="center">
 
-A location-first social platform that allows people to explore memories through places instead of feeds.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Twrinters** | Location-first social platform — explore memories through places | `Next.js` `React` `CesiumJS` `PostgreSQL` `Node.js` |
+| **ZeroGravity** | Modern cloud workspace for securely managing digital assets | `React` `Node.js` `Cloud Storage` `Auth` |
+| **AirSPACEx** | Independent software startup — AI, aerospace, and geospatial intelligence | `Python` `C++` `FastAPI` `Docker` |
 
-Every image is connected to the exact location and time it was captured, creating a map of human experiences.
-
-**Technology**
-
-* Next.js
-* React
-* CesiumJS
-* PostgreSQL
-* Node.js
-
----
-
-## ZeroGravity
-
-A modern cloud workspace for securely managing digital assets.
-
-Features include:
-
-* Secure authentication
-* File management
-* Cloud storage
-* Dashboard
-* File previews
-* Organised workspaces
-
----
-
-## AirSPACEx
-
-An independent software startup focused on building products powered by AI, aerospace technologies, and geospatial intelligence.
-
-The long-term vision is to create tools that make advanced technology more accessible and useful.
+</div>
 
 ---
 
 # Technology
 
-### Languages
+<div align="center">
 
-<p>
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
-</p>
 
-### Frontend
+**Frontend**
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
 
-### Backend
+**Backend**
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
 
-### Databases
+**Databases**
 
-<p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
-</p>
 
-### Infrastructure & Tools
+**Infrastructure & Tools**
 
-<p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode" />
-</p>
+
+</div>
 
 ---
 
-# GitHub Activity
+# GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nastylex&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nastylex&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nastylex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nastylex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nastylex&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nastylex&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
 
 # Currently Building
 
-* Twrinters
-* ZeroGravity
-* AI-powered applications
-* Geospatial software
-* Open-source tools
+<div align="center">
+
+| Status | Project |
+|--------|---------|
+| 🔨 | Twrinters — Location-first social platform |
+| 🔨 | ZeroGravity — Cloud workspace |
+| 🤖 | AI-powered applications |
+| 🌍 | Geospatial software |
+| 📦 | Open-source tools |
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nastylex/nastylex/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
 
 ---
 
@@ -146,10 +161,10 @@ The long-term vision is to create tools that make advanced technology more acces
 
 # Connect
 
-<p>
-<a href="https://zerogravity2.vercel.app">Website</a> •
-<a href="https://github.com/nastylex">GitHub</a> •
-<a href="mailto:airspacedevtools@proton.me">Email</a>
+<p align="center">
+<a href="https://zerogravity2.vercel.app">🌐 Website</a> •
+<a href="https://github.com/nastylex">💻 GitHub</a> •
+<a href="mailto:airspacedevtools@proton.me">📧 Email</a>
 </p>
 
 ---
