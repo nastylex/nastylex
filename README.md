@@ -26,14 +26,6 @@ I'm **Laker Leslie Jordan**, an 18-year-old software developer from Uganda and t
 
 My work sits at the intersection of artificial intelligence, aerospace, cloud infrastructure, and geospatial computing. I'm interested in building products that solve real problems through thoughtfully engineered systems.
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nastylex&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-
-</div>
-
 ---
 
 # AERION
@@ -103,21 +95,7 @@ AERION is more than a software company. It represents a mindset — a commitment
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nastylex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nastylex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nastylex&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nastylex&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://streak-stats.demolab.com?user=nastylex&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -134,16 +112,6 @@ AERION is more than a software company. It represents a mindset — a commitment
 | 🤖 | AI-powered applications |
 | 🌍 | Geospatial software |
 | 📦 | Open-source tools |
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nastylex/nastylex/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
