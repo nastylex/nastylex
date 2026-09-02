@@ -22,7 +22,7 @@
 
 # About
 
-I'm **Laker Leslie Jordan**, an 18-year-old software developer from Uganda and the founder of **AirSPACEx**.
+I'm **Laker Leslie Jordan**, an 18-year-old software developer from Uganda and the founder of **AERION**.
 
 My work sits at the intersection of artificial intelligence, aerospace, cloud infrastructure, and geospatial computing. I'm interested in building products that solve real problems through thoughtfully engineered systems.
 
