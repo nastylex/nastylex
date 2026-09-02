@@ -2,7 +2,7 @@
 
 <img src="ascii.svg" width="500" alt="NASTYLEX" />
 
-# nastyLEX
+# nasty
 
 ### AI • Aerospace • Geospatial Computing
 
