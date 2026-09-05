@@ -1,4 +1,4 @@
-<div align="center">
+⁹<div align="center">
 
 <img src="ascii.svg" width="500" alt="NASTYLEX" />
 
@@ -40,12 +40,12 @@ AERION is more than a software company. It represents a mindset — a commitment
 
 | Domain | Description |
 |--------|-------------|
-| 🤖 Artificial Intelligence | Machine learning, neural networks, intelligent automation |
-| 🚀 Aerospace Software | Flight systems, simulation, mission control |
-| 🌍 Geospatial Computing | Mapping, spatial analysis, Earth observation |
-| ☁️ Cloud Platforms | Scalable infrastructure, serverless architecture |
-| 🗺️ Interactive Mapping | Real-time geospatial visualization |
-| 🔧 Startup Engineering | Building products from zero to launch |
+|  Artificial Intelligence | Machine learning, neural networks, intelligent automation |
+|  Aerospace Software | Flight systems, simulation, mission control |
+|  Geospatial Computing | Mapping, spatial analysis, Earth observation |
+|  Cloud Platforms | Scalable infrastructure, serverless architecture |
+| Interactive Mapping | Real-time geospatial visualization |
+|  Startup Engineering | Building products from zero to launch |
 
 ---
 
@@ -107,11 +107,11 @@ AERION is more than a software company. It represents a mindset — a commitment
 
 | Status | Project |
 |--------|---------|
-| 🔨 | Twrinters — Location-first social platform |
-| 🔨 | ZeroGravity — Cloud workspace |
-| 🤖 | AI-powered applications |
-| 🌍 | Geospatial software |
-| 📦 | Open-source tools |
+|  | Twrinters — Location-first social platform |
+| | ZeroGravity — Cloud workspace |
+| | AI-powered applications |
+| | Geospatial software |
+| | Open-source tools |
 
 </div>
 
@@ -130,9 +130,10 @@ AERION is more than a software company. It represents a mindset — a commitment
 # Connect
 
 <p align="center">
-<a href="https://zerogravity2.vercel.app">🌐 Website</a> •
-<a href="https://github.com/nastylex">💻 GitHub</a> •
-<a href="mailto:airspacedevtools@proton.me">📧 Email</a>
+<a href="https://zerogravity2.vercel.app">
+  Website</a> •
+<a href="https://github.com/nastylex">GitHub</a> •
+<a href="mailto:airspacedevtools@proton.me"> Email</a>
 </p>
 
 ---
