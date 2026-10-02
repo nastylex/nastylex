@@ -10,4 +10,4 @@ Outside of work, I'm interested in following the developments of science. I make
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/lakerleslie12
-####![GitHub Rank](https://github-ranked.vercel.app/api/rank/nastylex)
+
