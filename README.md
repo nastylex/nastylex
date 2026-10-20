@@ -2,7 +2,7 @@
 
 I'm [**NastyLex**], a software engineer and tech Geek in Uganda.
 
-I currently work as a software developer at [**@AERION**](https://github.com/airspacex1), where I help build tech models that change the world. Previously,
+I currently work as a software developer at [**@AERION Foundation**](https://github.com/airspacex1), where I help build tech models that change the world. Previously,
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
